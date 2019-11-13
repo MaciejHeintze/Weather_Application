@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main_activity_fragment_height">0dp</dimen>
+    <dimen name="current_weather_fragment_weather_description_text_size">36sp</dimen>
+    <dimen name="current_weather_fragment_weather_description_top_margin">26dp</dimen>
+    <dimen name="current_weather_fragment_image_size">0dp</dimen>
+    <dimen name="current_weather_fragment_temperature_text_size">56sp</dimen>
+    <dimen name="current_weather_fragment_temperature_top_margin">36dp</dimen>
+    <dimen name="current_weather_fragment_values_text_size">20sp</dimen>
+    <dimen name="current_weather_fragment_values_top_margin">16dp</dimen>
+    <dimen name="current_weather_fragment_wind_text_view_top_margin">20dp</dimen>
+</resources>
